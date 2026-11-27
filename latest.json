@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-11-27T18:32:17.623159+00:00",
+  "generated_at_utc": "2026-11-27T19:42:37.629485+00:00",
   "data_source": "Alpaca IEX-only (not consolidated SIP)",
   "confirmation": "RESEARCH ONLY; no confirmed BUY; incomplete IEX coverage possible",
   "session": "US regular trading hours",
@@ -17,7 +17,7 @@
       "session_high_iex": 36.75,
       "session_low_iex": 32.03,
       "historical_sessions_available": 20,
-      "data_age_minutes": 26.1
+      "data_age_minutes": 96.5
     },
     {
       "symbol": "ASTS",
@@ -31,7 +31,7 @@
       "session_high_iex": 26.88,
       "session_low_iex": 24.68,
       "historical_sessions_available": 20,
-      "data_age_minutes": 33.1
+      "data_age_minutes": 103.5
     },
     {
       "symbol": "MP",
@@ -45,7 +45,7 @@
       "session_high_iex": 36.415,
       "session_low_iex": 34.63,
       "historical_sessions_available": 20,
-      "data_age_minutes": 33.1
+      "data_age_minutes": 103.5
     },
     {
       "symbol": "USAR",
@@ -59,7 +59,7 @@
       "session_high_iex": 6.9,
       "session_low_iex": 6.415,
       "historical_sessions_available": 20,
-      "data_age_minutes": 26.1
+      "data_age_minutes": 96.5
     },
     {
       "symbol": "VRT",
@@ -67,13 +67,13 @@
       "assessment": "STALE IEX DATA",
       "feed": "iex",
       "confirmed_buy": false,
-      "last_bar_et": "2026-11-27T12:59:00-05:00",
-      "last_price_iex": 178.87,
-      "session_volume_iex": 126605,
+      "last_bar_et": "2026-11-27T13:48:00-05:00",
+      "last_price_iex": 178.64,
+      "session_volume_iex": 126685,
       "session_high_iex": 180.4,
       "session_low_iex": 174.14,
       "historical_sessions_available": 20,
-      "data_age_minutes": 33.1
+      "data_age_minutes": 54.5
     },
     {
       "symbol": "GLW",
@@ -87,7 +87,7 @@
       "session_high_iex": 105.225,
       "session_low_iex": 101.47,
       "historical_sessions_available": 20,
-      "data_age_minutes": 33.1
+      "data_age_minutes": 103.5
     },
     {
       "symbol": "RKLB",
@@ -101,7 +101,7 @@
       "session_high_iex": 50.93,
       "session_low_iex": 47.56,
       "historical_sessions_available": 20,
-      "data_age_minutes": 33.1
+      "data_age_minutes": 103.5
     },
     {
       "symbol": "TTWO",
@@ -115,7 +115,7 @@
       "session_high_iex": 232.02,
       "session_low_iex": 226.61,
       "historical_sessions_available": 20,
-      "data_age_minutes": 33.1
+      "data_age_minutes": 103.5
     },
     {
       "symbol": "NVDA",
@@ -123,13 +123,13 @@
       "assessment": "STALE IEX DATA",
       "feed": "iex",
       "confirmed_buy": false,
-      "last_bar_et": "2026-11-27T13:01:00-05:00",
-      "last_price_iex": 150.42,
-      "session_volume_iex": 5844839,
+      "last_bar_et": "2026-11-27T13:57:00-05:00",
+      "last_price_iex": 149.52,
+      "session_volume_iex": 5845049,
       "session_high_iex": 151.945,
       "session_low_iex": 145.42,
       "historical_sessions_available": 20,
-      "data_age_minutes": 31.1
+      "data_age_minutes": 45.5
     },
     {
       "symbol": "SLS",
@@ -143,7 +143,7 @@
       "session_high_iex": 13.67,
       "session_low_iex": 12.51,
       "historical_sessions_available": 20,
-      "data_age_minutes": 33.1
+      "data_age_minutes": 103.5
     },
     {
       "symbol": "UNCY",
@@ -157,7 +157,7 @@
       "session_high_iex": 3.99,
       "session_low_iex": 3.865,
       "historical_sessions_available": 20,
-      "data_age_minutes": 33.1
+      "data_age_minutes": 103.5
     },
     {
       "symbol": "RXRX",
@@ -171,7 +171,7 @@
       "session_high_iex": 2.745,
       "session_low_iex": 2.57,
       "historical_sessions_available": 20,
-      "data_age_minutes": 33.1
+      "data_age_minutes": 103.5
     }
   ],
   "limitations": [
